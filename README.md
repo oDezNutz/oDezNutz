@@ -1,4 +1,2 @@
 # oDezNutz
-Nap er ssj
-
-
+Nap er sej
